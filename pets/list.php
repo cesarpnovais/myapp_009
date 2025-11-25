@@ -1,0 +1,1 @@
+<?php echo 'List pets'; ?>
